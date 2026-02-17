@@ -18,3 +18,24 @@
 
 
 ![snake gif](https://github.com/unmesh-patil-mh/unmesh-patil-mh/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+## 🚀 About Me
+- 💻 I love building web apps
+- 🌱 Currently learning advanced backend
+- 🎯 Goal: Become top developer
+
+---
+
+## 📫 Connect With Me
+Email - punmesh56@gmail.com
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD4p8KJ5hLXCYGQ/giphy.gif" width="800"/>
+</p>
+
