@@ -35,7 +35,3 @@
 ## 📫 Connect With Me
 Email - punmesh56@gmail.com
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4p8KJ5hLXCYGQ/giphy.gif" width="800"/>
-</p>
-
