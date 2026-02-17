@@ -5,8 +5,6 @@
 </p>
 
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=unmesh-patil-mh&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-
 
 
 
