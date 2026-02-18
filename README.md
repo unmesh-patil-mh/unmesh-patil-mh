@@ -17,7 +17,11 @@
 </p>
 
 
-![snake gif](https://github.com/unmesh-patil-mh/unmesh-patil-mh/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/unmesh-patil-mh/unmesh-patil-mh/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
