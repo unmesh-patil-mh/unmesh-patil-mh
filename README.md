@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Unmesh</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=unmesh-patil-mh&label=PROFILE+VIEWS&color=0f0&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=unmesh-patil-mh&style=flat-square&color=blue" />
 </p>
 
 <p align="center">
